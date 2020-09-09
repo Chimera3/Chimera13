@@ -6,6 +6,14 @@ RIP s0uthwes :(
 
 This project is being developed and open sourced in his memory, as he was interested in seeing it happen.
 
+# Open-Source:
+
+To modify this:
+```
+git clone --recursive https://github.com/Chimera3/Chimera13.git
+install swift and open 
+```
+
 # Supported Devices
 
 All A9-A13 devices on iOS 13.0-13.5
